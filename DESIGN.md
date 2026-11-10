@@ -12,7 +12,7 @@ Edit `scripts/render.py` and run `python scripts/render.py` to regenerate the he
 
 Data belongs to `chenyiwen-work` and is read from the GitHub contribution calendar API. Only dates, aggregate daily counts and contribution levels are stored; no private repository names or commit contents are included. Visibility and counts depend on the token used to fetch the calendar.
 
-Use **Actions → Refresh contribution calendar → Run workflow** to refresh the graph with GitHub's repository token. No scheduled refresh is configured.
+Use **Actions → Refresh contribution calendar → Run workflow** to refresh the graph with GitHub's repository token. The calendar also refreshes daily at 00:17 UTC (08:17 Asia/Shanghai).
 
 Or run locally with `GH_TOKEN` set:
 
