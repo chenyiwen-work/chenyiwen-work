@@ -1,6 +1,8 @@
 name: Refresh contribution calendar
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 0 * * *' # 08:17 Asia/Shanghai
 permissions:
   contents: write
 concurrency:
