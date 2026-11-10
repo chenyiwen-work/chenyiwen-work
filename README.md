@@ -9,6 +9,11 @@
   <a href="https://github.com/chenyiwen-work?tab=stars"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stars-dark.svg"><img alt="Discover projects I have starred" src="./assets/stars-light.svg" width="32%"></picture></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/agent-loop-dark.svg">
+  <img alt="A pixel agent moves through task, reasoning, tools and output. Decorative animation, not contribution statistics." src="./assets/agent-loop-light.svg" width="100%">
+</picture>
+
 <details>
 <summary><code>$ ls public-forks/</code></summary>
 
