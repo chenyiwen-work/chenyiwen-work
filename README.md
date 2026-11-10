@@ -10,8 +10,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/agent-loop-dark.svg">
-  <img alt="A pixel agent moves through task, reasoning, tools and output. Decorative animation, not contribution statistics." src="./assets/agent-loop-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg">
+  <img alt="Pac-Man and three pixel companions traverse my real GitHub contribution calendar." src="./assets/pacman-light.svg" width="100%">
 </picture>
 
 <details>
